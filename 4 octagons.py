@@ -5,7 +5,7 @@
 
 import turtle
 
-
+# draws an octagon
 def draw_a_octagon(color):
     turtle.begin_fill()
     turtle.fillcolor(color)
